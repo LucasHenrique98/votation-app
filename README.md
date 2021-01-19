@@ -17,4 +17,4 @@ Para a estilização da página foi utilizado o framework Materialize e para as 
 
 - React-flip-move
 
-  
+  ![Desafio-03-Google-Chrome-2021-01-18-22-05-58](https://user-images.githubusercontent.com/30630150/104976310-aff96880-59db-11eb-98ae-3c35be7bdf6d.gif)
